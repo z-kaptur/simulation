@@ -1,4 +1,9 @@
-
+/********************************************//**
+ * \file   queue.cpp
+ * \brief  Queue and queue element classes implementation.
+ * \author Zuzanna Kaptur
+ * \date   2015
+ ***********************************************/
 #include "sc.h"
 #ifndef NULL
 #define NULL 0

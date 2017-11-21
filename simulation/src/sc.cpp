@@ -1,6 +1,11 @@
-#include "sc.h"
-#include<windows.h>
+/********************************************//**
+ * \file   sc.cpp
+ * \brief  Main simulation file
+ * \author Zuzanna Kaptur
+ * \date   2015
+ ***********************************************/#include "sc.h"
 
+ #include<windows.h>
 
 using namespace std;
 using namespace simulation;

@@ -1,10 +1,15 @@
-
+/********************************************//**
+ * \file   queue.h
+ * \brief  Queue and queue element classes.
+ * \author Zuzanna Kaptur
+ * \date   2015
+ ***********************************************/
 #ifndef QUEUE_H
 #define QUEUE_H
 //-----------------------------------------------
 class Watercraft;
 //-----------------------------------------------
-/*! \brief Link
+/*! \brief 
 *
 * Klasa pomocnicza dla kolejki (Queue)
 * Przechowuje wskaznik do jednostki plywajacej oraz do kolejnego elementu kolejki
@@ -24,7 +29,7 @@ private:
 	Watercraft * data;	//!< Wskaznik na jednostke plywajaca
 };
 //-----------------------------------------------
-/*! \brief Queue.
+/*! \brief
 *
 * Kolejka
 *
